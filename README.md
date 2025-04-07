@@ -9,8 +9,8 @@ Com ele, você pode criar contas, consultar saldos, realizar depósitos e saques
 ✅ Consultar o saldo de uma conta existente<br>
 ✅ Depositar valores na conta<br>
 ✅ Realizar saques da conta<br>
-✅ Persistência dos dados usando arquivos `.json<br>`
-✅ Interface amigável com mensagens coloridas via **Chalk**<br>
+✅ Persistência dos dados usando arquivos .json<br>
+✅ Interface amigável com mensagens coloridas via **Chalk**
 
 ## 🛠️ Tecnologias utilizadas
 
