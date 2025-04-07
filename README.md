@@ -5,11 +5,11 @@ Com ele, você pode criar contas, consultar saldos, realizar depósitos e saques
 
 ## 🚀 Funcionalidades
 
-✅ Criar uma nova conta bancária
-✅ Consultar o saldo de uma conta existente
-✅ Depositar valores na conta
-✅ Realizar saques da conta
-✅ Persistência dos dados usando arquivos `.json`
+✅ Criar uma nova conta bancária<br>
+✅ Consultar o saldo de uma conta existente<br>
+✅ Depositar valores na conta<br>
+✅ Realizar saques da conta<br>
+✅ Persistência dos dados usando arquivos `.json<br>`
 ✅ Interface amigável com mensagens coloridas via **Chalk**
 
 ## 🛠️ Tecnologias utilizadas
