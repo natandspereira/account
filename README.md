@@ -5,12 +5,12 @@ Com ele, você pode criar contas, consultar saldos, realizar depósitos e saques
 
 ## 🚀 Funcionalidades
 
-- ✅ Criar uma nova conta bancária
-- ✅ Consultar o saldo de uma conta existente
-- ✅ Depositar valores na conta
-- ✅ Realizar saques da conta
-- ✅ Persistência dos dados usando arquivos `.json`
-- ✅ Interface amigável com mensagens coloridas via **Chalk**
+✅ Criar uma nova conta bancária
+✅ Consultar o saldo de uma conta existente
+✅ Depositar valores na conta
+✅ Realizar saques da conta
+✅ Persistência dos dados usando arquivos `.json`
+✅ Interface amigável com mensagens coloridas via **Chalk**
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -29,7 +29,7 @@ Com ele, você pode criar contas, consultar saldos, realizar depósitos e saques
 {
   "balance": 1500
 }
-
+```
 ## ⚙️ Como usar
 1. Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
